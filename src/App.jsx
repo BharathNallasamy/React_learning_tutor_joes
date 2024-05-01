@@ -8,6 +8,7 @@
 // They are from Another Files
 import { UserCard } from "./CardComponent/UserCard";
 // import {UseState} from "./ExtrasComponent/UseState";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   // const arr = [
